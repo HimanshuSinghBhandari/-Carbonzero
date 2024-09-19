@@ -3,6 +3,7 @@ import HeroSection from '../components/(frontend)/(Landing Page)/Herosection'
 import WhoWeAre from '../components/(frontend)/(Landing Page)/whoweare'
 import ProductImpact from '../components/(frontend)/(Landing Page)/productimpact'
 import InnovationShowcase from '../components/(frontend)/(Landing Page)/InnovativeandUnique'
+import Footer from '../components/(frontend)/(Landing Page)/Footer/footer'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <WhoWeAre/>
         <ProductImpact/>
         <InnovationShowcase/>
+        <Footer/>
     </div>
   )
 }
