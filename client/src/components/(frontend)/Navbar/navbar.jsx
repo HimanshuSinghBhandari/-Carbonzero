@@ -19,7 +19,7 @@ const NavBar = () => {
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
       >
-        <Link to="/" className="text-xl font-bold">Carbon Zero</Link>
+        <Link to="/" className="text-xl font-bold">MineNet Zero</Link>
       </motion.div>
 
       <ul className="flex space-x-6 text-lg">
